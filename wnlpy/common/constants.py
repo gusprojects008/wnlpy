@@ -1,3 +1,5 @@
+# Linux subsystems constants
+
 NETLINK_GENERIC = 0x10
 IEEE80211_RADIOTAP = 0x0010
 SOL_NETLINK = 270

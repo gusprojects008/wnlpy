@@ -1,0 +1,1 @@
+framesniff-parsers @ git+https://github.com/gusprojects008/framesniff-parsers.git@v1.0.0
